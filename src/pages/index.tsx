@@ -5,7 +5,7 @@ export default function Dashboard() {
   return (
     <Container id="dashboard-page" className="py-4 md:py-8 lg:py-12" maxWidth="2xl">
       <Head>
-        <title>Dashboard | Wraith</title>
+        <title>Dashboard | ApolloPri.me</title>
         <meta name="description" content="Wraith" />
       </Head>
     </Container>
