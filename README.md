@@ -1,3 +1,3 @@
-# WRAITHSWAP
+# ApolloPri.me
 
-This is the new open source interface for WraithSwap for the Fantom network by Sy.finance forked from Sushiswap.
+This is the new open source interface for ApolloPri.me for the Fantom network forked from Sushiswap.
